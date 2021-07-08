@@ -8,6 +8,4 @@ Case setup is in `constant` (mesh is in `polyMesh` subdirectory) and `system` di
 
 ![Velocity field](U.png)
 
-The tutorial is in the `.ipynb` file:
-
-![PyVista_OpenFOAM_Tutorial.ipynb]
+The tutorial is in the `.ipynb` file: [PyVista_OpenFOAM_Tutorial.ipynb](./PyVista_OpenFOAM_Tutorial.ipynb)
